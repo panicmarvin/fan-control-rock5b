@@ -10,31 +10,31 @@
         },
         {
             "temp": 44,
-            "duty": 55,
+            "duty": 20,
             "duration": 25
         },
         {
             "temp": 49,
-            "duty": 60,
+            "duty": 30,
             "duration": 35
         },
         {
             "temp": 54,
-            "duty": 70,
+            "duty": 40,
             "duration": 45
         },
         {
             "temp": 59,
-            "duty": 80,
+            "duty": 50,
             "duration": 60
         },
         {
             "temp": 64,
-            "duty": 90,
+            "duty": 50,
             "duration": 120
         },
         {
-            "temp": 67,
+            "temp": 80,
             "duty": 100,
             "duration": 180
         }
