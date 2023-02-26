@@ -26,9 +26,9 @@ systemctl start fan-control
 Configuration
 ==============
 
-configuration file locations is `/etc/fan-control.json`, Configuration parameter description:
+The location of the configuration file is `/etc/fan-control.json`. Configuration parameters:
 
-|Configuration|Description|
+|Parameter|Description|
 |--|--|
 |pwmchip|pwmchip id, 1 for auto scan|
 |gpio|gpio id, 0 is default gpio |
