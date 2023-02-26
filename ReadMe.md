@@ -2,11 +2,12 @@ Fan-control
 ==============
 
 A tool to control fan speed by temperature automatically for ROCK5B.
+Forked to modify the fan curve, as it made very little sense for the Radxa fan. 
 
 Features
 --------------
-1. Control fan speed by temperature. (above 45 degrees)
-2. set fan speed manually
+1. Control fan speed by temperature. (above 40 degrees)
+2. Set fan speed manually
 
 Build & install
 ==============
