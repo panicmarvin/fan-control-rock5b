@@ -5,22 +5,22 @@
     "temp-map": [
         {
             "temp": 40,
-            "duty": 19,
+            "duty": 30,
             "duration": 20
         },
         {
             "temp": 44,
-            "duty": 20,
+            "duty": 35,
             "duration": 25
         },
         {
             "temp": 49,
-            "duty": 30,
+            "duty": 40,
             "duration": 35
         },
         {
             "temp": 54,
-            "duty": 40,
+            "duty": 45,
             "duration": 45
         },
         {
