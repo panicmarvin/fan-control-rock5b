@@ -1,21 +1,21 @@
 {
     "pwmchip": -1,
     "gpio": 0,
-    "pwm-period": 30000,
+    "pwm-period": 20000,
     "temp-map": [
         {
             "temp": 20,
-            "duty": 40,
-            "duration": 20
+            "duty": 42,
+            "duration": 10
         },
         {
             "temp": 50,
-            "duty": 45,
+            "duty": 48,
             "duration": 2
         },
         {
             "temp": 60,
-            "duty": 56,
+            "duty": 54,
             "duration": 2
         },
         {
